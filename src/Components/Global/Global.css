@@ -1,0 +1,29 @@
+h1, h2 {
+	color: #4A235A;
+	font: 30px Arial, sans-serif;
+	text-align: center;
+	justify-content: center;
+	font-weight: bold;
+}
+
+
+.gb { 
+	color: #4A235A;
+	font: 25px Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	justify-content: center;
+	border-style: solid;
+}
+
+
+footer {
+   margin-top: 50px;
+   margin-bottom: 10px;
+   position: relative;
+   left: 0;
+   bottom: 0;
+   color: black;
+   text-align: center;
+}
+

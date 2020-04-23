@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "courier New", Courier, monospace;
+  background-image: linear-gradient(to right, #13235e, #4a4a80, #7975a3, #a9a3c8, #d9d4ee);
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+   margin-top: -120px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: -10px;
+   width: 250px; 
+   height: 200px; 
+}
+
+h1 {
+	color: #4A235A;
+	font: 30px Arial, sans-serif;
+}
+
